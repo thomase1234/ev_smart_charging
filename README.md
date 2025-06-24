@@ -1,4 +1,4 @@
-# EV Smart Charging
+# EV Smart Charging with Solar
 
 [![GitHub Release][releases-shield]][releases]
 [![Codecov][coverage-shield]][coverage]
